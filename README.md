@@ -28,8 +28,8 @@ Drag Animator Controller to the GameObject in the Inspector.
 
 ## Program :
 
-### DEVELOPED BY : Onteddu Sirisha
-### REG NO : 212222230103
+### DEVELOPED BY :MADHAVAN K
+### REG NO :212224220054
 
 ```
 using UnityEngine;
